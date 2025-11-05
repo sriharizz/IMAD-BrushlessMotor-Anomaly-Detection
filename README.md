@@ -67,8 +67,7 @@ Below are three real sensor recordings detected by the model:
 - **Top:** Major anomaly (sharp amplitude burst — likely fault)
 - **Middle:** Mild anomaly (early deviation)
 - **Bottom:** Normal motor operation (steady waveform)
-<img width="1389" height="240" alt="image" src="https://github.com/user-attachments/assets/561179d6-8767-4857-b0c9-4dfd265ec395" />
-
+<img width="1400" height="727" alt="image" src="https://github.com/user-attachments/assets/2719513a-bc40-4ed4-b19b-990c288e65d2" />
 
 ## 🛠️ Tech Stack
 

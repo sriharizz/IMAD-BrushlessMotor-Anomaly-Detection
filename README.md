@@ -67,10 +67,8 @@ Below are three real sensor recordings detected by the model:
 - **Top:** Major anomaly (sharp amplitude burst — likely fault)
 - **Middle:** Mild anomaly (early deviation)
 - **Bottom:** Normal motor operation (steady waveform)
+<img width="1389" height="240" alt="image" src="https://github.com/user-attachments/assets/561179d6-8767-4857-b0c9-4dfd265ec395" />
 
-![Brushless Motor Anomaly Comparison](https://raw.githubusercontent.com/sriharizz/industrial-anomaly-detection/main/brushless_motor_anomaly_comparison.png)
-
----
 
 ## 🛠️ Tech Stack
 
